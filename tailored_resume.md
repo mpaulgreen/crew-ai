@@ -1,0 +1,1 @@
+Due to access limitations, we can craft a tailored resume based on the existing information about João Moura as a Principal Software Engineer and Senior Engineering Manager. We will proceed to update the resume to highlight his relevant experiences, accomplishments, and skills.
