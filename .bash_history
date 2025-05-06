@@ -20,3 +20,35 @@ git status
 git add .
 git commit -m "Renamed the startup file"
 git push
+vi .env
+git status
+git add .
+git commit -m "Focus on tools"
+git push
+git status
+git add .
+git commit -m "completed crew tasks"
+git push
+git status
+git  add .
+git commit -m "Completed Multi-Agent Collaborator"
+git push
+git status
+git add .
+git commit -m "All in one"
+git push
+git status
+git add .
+git commit -m "Agents and Tasks with yaml file"
+git push
+vi .emv
+ls -la
+vi .env
+git status
+git add .
+git commit -m "Using internal and external tools"
+git push
+git status
+git add .
+git commit -m "flows of crew ai"
+git push
